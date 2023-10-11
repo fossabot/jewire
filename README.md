@@ -1,6 +1,7 @@
 <div align="center">
 
 # [![Jewire](logo.svg)](https://github.com/nktnet1/jewire)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fnktnet1%2Fjewire.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fnktnet1%2Fjewire?ref=badge_shield)
 
 Access private functions, variables and classes from CommonJS modules
 
@@ -118,6 +119,9 @@ DEALING S IN THE SOFTWARE.
 ```
 
 </details>
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fnktnet1%2Fjewire.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fnktnet1%2Fjewire?ref=badge_large)
 
 ## 4. Limitations
 
